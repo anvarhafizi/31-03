@@ -1,0 +1,11 @@
+C:\HomeWork\3103\bin\Debug\netcoreapp3.1\HW6.exe
+C:\HomeWork\3103\bin\Debug\netcoreapp3.1\HW6.deps.json
+C:\HomeWork\3103\bin\Debug\netcoreapp3.1\HW6.runtimeconfig.json
+C:\HomeWork\3103\bin\Debug\netcoreapp3.1\HW6.runtimeconfig.dev.json
+C:\HomeWork\3103\bin\Debug\netcoreapp3.1\HW6.dll
+C:\HomeWork\3103\bin\Debug\netcoreapp3.1\HW6.pdb
+C:\HomeWork\3103\obj\Debug\netcoreapp3.1\HW6.csprojAssemblyReference.cache
+C:\HomeWork\3103\obj\Debug\netcoreapp3.1\HW6.AssemblyInfoInputs.cache
+C:\HomeWork\3103\obj\Debug\netcoreapp3.1\HW6.AssemblyInfo.cs
+C:\HomeWork\3103\obj\Debug\netcoreapp3.1\HW6.dll
+C:\HomeWork\3103\obj\Debug\netcoreapp3.1\HW6.pdb
